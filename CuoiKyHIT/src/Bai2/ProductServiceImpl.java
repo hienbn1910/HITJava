@@ -55,8 +55,8 @@ public class ProductServiceImpl implements ProductService {
     public void fakeData() {
         products.add(new ElectronicProduct("P001", "Iphone", 1000, 5, "Electronic", new Manufacturer("M001", "Apple", "USA", "apple@gmail.com")));
         products.add(new ElectronicProduct("P002", "SamSung S23 Ultra", 2000, 3, "Electronic", new Manufacturer("M002", "Apple", "USA", "samsung@gmail.com")));
-        products.add(new ElectronicProduct("P003", "Bread", 100, 3, "Food", new Manufacturer("M003", "Jolibee", "USA", "jolibee@gmail.com")));
-        products.add(new ElectronicProduct("P004", "Fatis", 3000, 5, "Clothing", new Manufacturer("M004", "Balenciaga", "USA", "balenciaga@gmail.com")));
-        products.add(new ElectronicProduct("P005", "Coca", 30, 10, "Food", new Manufacturer("M005", "Cocacola", "USA", "cocacola@gmail.com")));
+        products.add(new FoodProduct("P003", "Bread", 100, 3, "Food", new Manufacturer("M003", "Jolibee", "USA", "jolibee@gmail.com")));
+        products.add(new ClothingProduct("P004", "Fatis", 3000, 5, "Clothing", new Manufacturer("M004", "Balenciaga", "USA", "balenciaga@gmail.com")));
+        products.add(new FoodProduct("P005", "Coca", 30, 10, "Food", new Manufacturer("M005", "Cocacola", "USA", "cocacola@gmail.com")));
     }
 }
