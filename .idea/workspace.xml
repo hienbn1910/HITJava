@@ -5,15 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1739c0c0-9211-44a6-9b11-a5b1f63a56f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai6$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice lesson 2/out/production/Practice lesson 2/Bai6.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice lesson 6/src/Bai1/LopHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice lesson 6/src/Bai1/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/Buoi 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi 1/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice lesson 3/src/Bai4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice lesson 3/src/Bai4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1/src/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 4/src/Bai3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 4/src/Bai3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 4/src/LopJAVA/LopHoc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 4/src/LopJAVA/SinhVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 4/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 4/src/python/LopPython.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 5/src/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 5/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project tuan 5/src/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/HIT Java",
-    "onboarding.tips.debug.path": "D:/HIT Java/Buoi 1/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HIT Java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/HIT Java/Buoi 1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
